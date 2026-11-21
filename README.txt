@@ -1,20 +1,21 @@
-ERNESTO S. AVILA III — EDITORIAL PORTFOLIO
+# Ernesto S. Avila III — Personal Job Portfolio
 
-This version uses a distinctive editorial / technical-atlas visual direction:
-warm mineral paper, deep botanical green, burnt-orange accents, Playfair Display,
-DM Sans and DM Mono typography, cartographic contour-line artwork and an
-asymmetrical layout.
+A responsive, single-page portfolio website built with plain HTML, CSS and JavaScript.
 
-FILES
-- index.html: page structure and portfolio content
-- style.css: visual design and responsive layouts
-- script.js: mobile navigation and dynamic footer year
+## Files
+- `index.html` — page structure and CV content
+- `style.css` — responsive layout, typography, colors and visual styling
+- `script.js` — mobile navigation, current year and subtle reveal effects
 
-VIEW
-Keep all files in the same folder and open index.html in a modern browser.
-Google Fonts require an internet connection; the site itself runs locally.
+## Run locally
+1. Extract the ZIP file.
+2. Keep all three files in the same folder.
+3. Double-click `index.html` or open it in a browser.
 
-CONTENT NOTE
-The portfolio is based on the supplied CV. Personal date of birth, marital status,
-passport number, and reference phone numbers are intentionally excluded.
-Add verified project samples and screenshots before publishing a project gallery.
+The site uses Google Fonts (Manrope, Space Grotesk and DM Mono), so an internet connection is needed for those fonts. System fallbacks are included.
+
+## Before publishing
+- Review your contact details and LinkedIn link.
+- Add a custom domain or hosting provider (GitHub Pages, Netlify or similar).
+- Your CV includes personal identifiers and reference phone numbers; these have intentionally not been published on this public-facing job portfolio.
+- No project samples or software proficiency ratings have been invented. Add real work samples if you want a project gallery.
